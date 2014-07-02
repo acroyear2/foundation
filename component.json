@@ -1,0 +1,13 @@
+{
+  "name": "foundation",
+  "repo": "acroyear2/foundation",
+  "version": "0.0.1",
+  "dependencies": {},
+  "main": "js/foundation.js",
+  "scripts": [
+    "js/foundation.js"
+  ],
+  "styles": [
+    "css/foundation.css"
+  ]
+}
